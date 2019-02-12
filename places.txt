@@ -1,3 +1,4 @@
+
 Places I've been: Kiev, St Agustine, Oakland
 Places I want to visit: Miami, Lisbon
 Additional places I want to visit: Alaska, Austria
@@ -5,3 +6,4 @@ Otro cambio para probar si se pueden subir dos a la vez
 Mas cambios para el ejercicio
 Lluvia amarilla
 Y ahora haciendo cambios desde el GitHub
+mi aguita amarilla!
